@@ -1,3 +1,7 @@
+body {
+    display: block;
+}
+
 .logo-container {
     display: flex;
     justify-content: center;
@@ -34,6 +38,7 @@
 
 .board-container {
     display: flex;
+
 }
 
 .play-container {
