@@ -1,0 +1,47 @@
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.score-container {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    background-color: aqua;
+    padding: 5px;
+    width: 500px;
+    height: 815px;
+}
+
+.scores {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    width: 250px;
+}
+
+.header {
+    background-color: black;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+.board-container {
+    display: flex;
+}
+
+.play-container {
+    display: flex;
+    background-color: brown;
+}
+
+.play-area {
+    display: flex;
+    background-color: gray;
+}
